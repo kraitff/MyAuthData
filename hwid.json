@@ -1,0 +1,11 @@
+{
+  "admin": [
+    {
+      "username": "test",
+      "password": "$2a$10$7Qxw8Y7JZpZkZQkXzQxXvOeQ4Z0yQ9u8WqzZp2x1v3QxZQZQZQZ",
+      "subscription": "owner",
+      "expiry": "2026-12-31",
+      "device_id": ""
+    }
+  ]
+}
